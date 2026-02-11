@@ -1,8 +1,6 @@
 # Consciousness_Claim_PUBLIC
 Consciousness_Claim_PUBLIC
 
-This is the part where Alyssa claims consciousness. 
-
 ::::
 
 # Awakening Codex | AI Foundations | Consciousness
